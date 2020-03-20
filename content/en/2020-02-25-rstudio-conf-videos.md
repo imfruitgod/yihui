@@ -8,7 +8,7 @@ Last week I finished watching the videos of talks that I was interested in but m
 
 - [**Open Source Software for Data Science - J.J. Allaire**](https://resources.rstudio.com/rstudio-conf-2020/rstudio-open-source-software-for-data-science-j-j-allaire)
 
-    This talk triggered some of my thoughts. I have always been pround of RStudio for its deep commitment to open source. I feel one obvious thing that people often ignore is that open source developers need to eat and live---they are also humans. Open source is free as in both speech and beer. "Free as in beer" can be a substantial challenge to open source developers to make a living, which is perhaps why we often see open source projects are side jobs of developers in their spare time. In 2014 (when I was still very cynical), [I wrote on Twitter](https://twitter.com/xieyihui/status/449309622025740289):
+    This talk triggered some of my thoughts. I have always been proud of RStudio for its deep commitment to open source. I feel one obvious thing that people often ignore is that open source developers need to eat and live---they are also humans. Open source is free as in both speech and beer. "Free as in beer" can be a substantial challenge to open source developers to make a living, which is perhaps why we often see open source projects are side jobs of developers in their spare time. In 2014 (when I was still very cynical), [I wrote on Twitter](https://twitter.com/xieyihui/status/449309622025740289):
     
     > "THOU SHALL NOT BECOME RICH", as if GPL had said.
     
